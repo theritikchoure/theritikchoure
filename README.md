@@ -13,7 +13,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/ritikchourasiya/" target="blank"><img align="center" src="https://img.shields.io/badge/Ritik Chourasiya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:ritvikchoure65@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/ritvikchoure65@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://twitter.com/ritikchoure" target="blank"><img align="center" src="https://img.shields.io/badge/ritikchoure-100000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ritikchourasiya/" target="blank"><img align="center" src="https://img.shields.io/badge/Ritik Chourasiya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:ritvikchoure65@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/ritvikchoure65@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://twitter.com/ritikchoure" target="blank"><img align="center" src="https://img.shields.io/badge/ritikchoure-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
   
 <Br>
