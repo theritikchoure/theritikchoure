@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Blood Donation Portal](https://github.com/theritikchoure/blood-donation-api-nodejs)
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 Learning **REACT JS**
 
 - 📫 How to reach me **ritvikchoure65@gmail.com**
 
