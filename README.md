@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theritikchoure" alt="theritikchoure" /> </p>
 
-- 🔭 I’m currently working on [Blood Donation Portal](https://github.com/theritikchoure/blood-donation-api-nodejs)
+- 🔭 I’m currently working on [JobHunt (Job Board) Complete MEVN Stack](https://github.com/theritikchoure/blood-donation-api-nodejs)
 
-- 🌱 Learning **REACT JS**
+- 🌱 Learning **Data Science with JavaScript**
 
 - 📫 How to reach me **ritvikchoure65@gmail.com**
 
