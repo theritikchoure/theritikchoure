@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritik Chourasiya</h1>
 <h3 align="center">I'm Ritik Chourasiya, a 22-year old technical enthusiast who does Backend Development. Passionate to work with Healthcare Industries to help in technical aspects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theritikchoure" alt="theritikchoure" /> </p>
-
 - 🔭 I’m currently working on [JobHunt (Job Board) Complete MEVN Stack](https://github.com/theritikchoure/blood-donation-api-nodejs)
 
 - 🌱 Learning **Data Science with JavaScript**
