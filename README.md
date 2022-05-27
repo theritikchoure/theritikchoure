@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ZEN - Node Based CLI](https://github.com/theritikchoure/zen)
 
-- 🌱 Learning **Go Lang**
+- 🌱 Learning **Go Lang** for **DevOps**
 
 - 📫 How to reach me **ritvikchoure65@gmail.com**
 
