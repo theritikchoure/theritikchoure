@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ritik Chourasiya</h1>
-<h3 align="center">I'm Ritik Chourasiya, a 22-year old technical enthusiast who does Backend Development. Passionate to work with Healthcare Industries to help in technical aspects.</h3>
+<a href="http://eddiejaoude.io" target="_blank"><img src="https://user-images.githubusercontent.com/56495602/198199409-5df07f02-70ba-48cd-9a87-e050ccb8f8af.png" /></a>
 
-- 🔭 I’m currently working on [CarrierJs - Simple and Powerfull HTTP client for browsers with ultimate caching feature.](https://github.com/theritikchoure/carrierjs)
+<h4 align="center">I believe in Learning in Public & Building in Public</h4>
 
-- 🌱 Learning **Go Lang** for **DevOps**
-
-- 📫 How to reach me **ritvikchoure65@gmail.com**
+- 💡  I like to explore new technologies and develop software solutions and quick hacks.
+- 🎓  I'm currently studying Information Technology at the University Institute of Technology, RGTU.
+- 🌱  I'm on track for learning more about DevOps, Systems Design, and Cloud Architecture.
+- ✍️  In my free time, I write blogs on hackernoon [@ritikchourasiya](https://hackernoon.com/u/ritikchourasiya).
+- ✉️  You can shoot me an email at [ritvikchoure65+github@gmail.com](mailto:ritvikchoure65+github@gmail.com)! I'll try to respond as soon as I can.
+- 📄  Please have a look at my [Resume](https://docs.google.com/document/d/1L5I_DXYwbhfapVYwmaMNbsD8HNNY5kk2nZJxvv2I0bk/edit?usp=drivesdk) for more details about me. I'm open to feedback and suggestions!
 
 <Br>
   
@@ -23,6 +25,55 @@
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="48" height="48" alt="Lavarel" /></a>
 </p>
 
+### Latest [Hackernoon](https://hackernoon.com/) Blogs
+
+<table>
+
+<!-- First Row -->
+<tr>
+<td>
+<a href="https://hackernoon.com/how-to-deploy-a-multi-page-static-website-with-github-pages-and-github-actions-for-free">
+<img width="140px" src="https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fimages%2FwmX5pUAo8OZNJ7VwDt1DOfj0RT83-72p3jso.jpeg&w=1200&q=75">
+</a>
+</td>
+<td>
+<a href="https://hackernoon.com/how-to-deploy-a-multi-page-static-website-with-github-pages-and-github-actions-for-free">How to Deploy a Multi-Page Static Website With GitHub Pages and GitHub Actions for Free
+</a> 
+</td>
+</tr>
+
+<!-- Second Row -->
+<tr>
+<td>
+<a href="https://hackernoon.com/how-to-change-a-git-remote-url">
+<img width="140px" src="https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fimages%2FwmX5pUAo8OZNJ7VwDt1DOfj0RT83-0q93j1d.jpeg&w=1200&q=75">
+</a> 
+</td>
+<td>
+<a href="https://hackernoon.com/how-to-change-a-git-remote-url">How to Change a Git Remote URL
+</a> (268 Views) <br>
+</td>
+</tr>
+
+
+<!-- Third Row -->
+<tr>
+<td>
+<a href="https://hackernoon.com/how-to-publish-your-package-on-npm-registry">
+<img width="140px" src="https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fimages%2FwmX5pUAo8OZNJ7VwDt1DOfj0RT83-ak93nt3.jpeg&w=1080&q=75">
+</a>
+</td>
+<td>
+<a href="https://hackernoon.com/how-to-publish-your-package-on-npm-registry">How to Publish Your Package on NPM Registry
+</a> (222 Views) <br>
+</td>
+</tr>
+
+
+
+</table>
+
+
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
@@ -31,4 +82,3 @@
 </p>
   
 <Br>
-<hr>
