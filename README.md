@@ -37,7 +37,7 @@
 </a>
 </td>
 <td>
-<a href="https://hackernoon.com/how-to-deploy-a-multi-page-static-website-with-github-pages-and-github-actions-for-free">How to Deploy a Multi-Page Static Website With GitHub Pages and GitHub Actions for Free
+<a href="https://hackernoon.com/how-to-deploy-a-multi-page-static-website-with-github-pages-and-github-actions-for-free">How to Deploy a Multi-Page Static Website With GitHub Pages and GitHub Actions for Free (189 Views) <br>
 </a> 
 </td>
 </tr>
