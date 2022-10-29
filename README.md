@@ -38,7 +38,7 @@
 </td>
 <td>
 <a href="https://hackernoon.com/how-to-deploy-a-multi-page-static-website-with-github-pages-and-github-actions-for-free">How to Deploy a Multi-Page Static Website With GitHub Pages and GitHub Actions for Free 
-</a> (189 Views) <br>
+</a> (283 Views) <br>
 </td>
 </tr>
 
@@ -51,7 +51,7 @@
 </td>
 <td>
 <a href="https://hackernoon.com/how-to-change-a-git-remote-url">How to Change a Git Remote URL
-</a> (268 Views) <br>
+</a> (292 Views) <br>
 </td>
 </tr>
 
