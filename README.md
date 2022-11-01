@@ -28,8 +28,20 @@
 ### Latest [Hackernoon](https://hackernoon.com/) Blogs
 
 <table>
+  
+<tr>
+<td>
+<a href="https://hackernoon.com/how-to-implement-caching-in-react-using-carrierjs">
+<img width="140px" src="https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fimages%2FwmX5pUAo8OZNJ7VwDt1DOfj0RT83-5qc3j9d.jpeg&w=1200&q=75">
+</a>
+</td>
+<td>
+<a href="https://hackernoon.com/how-to-implement-caching-in-react-using-carrierjs">
+How to Implement Caching in React Using CarrierJS
+</a> (502 Views) <br>
+</td>
+</tr>
 
-<!-- First Row -->
 <tr>
 <td>
 <a href="https://hackernoon.com/how-to-deploy-a-multi-page-static-website-with-github-pages-and-github-actions-for-free">
@@ -38,11 +50,10 @@
 </td>
 <td>
 <a href="https://hackernoon.com/how-to-deploy-a-multi-page-static-website-with-github-pages-and-github-actions-for-free">How to Deploy a Multi-Page Static Website With GitHub Pages and GitHub Actions for Free 
-</a> (283 Views) <br>
+</a> (393 Views) <br>
 </td>
 </tr>
 
-<!-- Second Row -->
 <tr>
 <td>
 <a href="https://hackernoon.com/how-to-change-a-git-remote-url">
@@ -51,12 +62,10 @@
 </td>
 <td>
 <a href="https://hackernoon.com/how-to-change-a-git-remote-url">How to Change a Git Remote URL
-</a> (292 Views) <br>
+</a> (307 Views) <br>
 </td>
 </tr>
 
-
-<!-- Third Row -->
 <tr>
 <td>
 <a href="https://hackernoon.com/how-to-publish-your-package-on-npm-registry">
@@ -68,8 +77,6 @@
 </a> (222 Views) <br>
 </td>
 </tr>
-
-
 
 </table>
 
