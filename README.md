@@ -38,7 +38,7 @@
 <td>
 <a href="https://hackernoon.com/how-to-implement-caching-in-react-using-carrierjs">
 How to Implement Caching in React Using CarrierJS
-</a> (729 Views) <br>
+</a> (835 Views) <br>
 </td>
 </tr>
 
@@ -50,7 +50,7 @@ How to Implement Caching in React Using CarrierJS
 </td>
 <td>
 <a href="https://hackernoon.com/how-to-deploy-a-multi-page-static-website-with-github-pages-and-github-actions-for-free">How to Deploy a Multi-Page Static Website With GitHub Pages and GitHub Actions for Free 
-</a> (415 Views) <br>
+</a> (440 Views) <br>
 </td>
 </tr>
 
@@ -62,7 +62,7 @@ How to Implement Caching in React Using CarrierJS
 </td>
 <td>
 <a href="https://hackernoon.com/how-to-change-a-git-remote-url">How to Change a Git Remote URL
-</a> (312 Views) <br>
+</a> (324 Views) <br>
 </td>
 </tr>
 
