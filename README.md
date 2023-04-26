@@ -25,59 +25,73 @@
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="48" height="48" alt="Lavarel" /></a>
 </p>
 
-### Latest [Hackernoon](https://hackernoon.com/) Blogs
+### Latest [Medium](https://ritikchourasiya.medium.com/) Blogs
 
 <table>
-  
-<tr>
+  <tr>
 <td>
-<a href="https://hackernoon.com/how-to-implement-caching-in-react-using-carrierjs">
-<img width="140px" src="https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fimages%2FwmX5pUAo8OZNJ7VwDt1DOfj0RT83-5qc3j9d.jpeg&w=1200&q=75">
+<a href="https://ritikchourasiya.medium.com/ultimate-guide-to-build-chrome-extension-with-example-and-code-snippets-c49b4b486a39">
+<img width="140px" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*9_iaM1XDjfIHvi0whslb6A.png">
 </a>
 </td>
 <td>
-<a href="https://hackernoon.com/how-to-implement-caching-in-react-using-carrierjs">
-How to Implement Caching in React Using CarrierJS
-</a> (835 Views) <br>
+<a href="https://ritikchourasiya.medium.com/ultimate-guide-to-build-chrome-extension-with-example-and-code-snippets-c49b4b486a39">
+Ultimate guide to build Chrome Extension — with example and code snippets
+</a>
 </td>
 </tr>
 
 <tr>
 <td>
-<a href="https://hackernoon.com/how-to-deploy-a-multi-page-static-website-with-github-pages-and-github-actions-for-free">
-<img width="140px" src="https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fimages%2FwmX5pUAo8OZNJ7VwDt1DOfj0RT83-72p3jso.jpeg&w=1200&q=75">
+<a href="https://ritikchourasiya.medium.com/ultimate-guide-about-http-status-codeultimate-guide-about-http-status-code-fd0566689d78">
+<img width="140px" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*VR2IomySTbI0w2eF-ppCSg.png">
 </a>
 </td>
 <td>
-<a href="https://hackernoon.com/how-to-deploy-a-multi-page-static-website-with-github-pages-and-github-actions-for-free">How to Deploy a Multi-Page Static Website With GitHub Pages and GitHub Actions for Free 
-</a> (440 Views) <br>
+<a href="https://ritikchourasiya.medium.com/ultimate-guide-about-http-status-codeultimate-guide-about-http-status-code-fd0566689d78">
+Ultimate guide about HTTP Status code
+</a>
 </td>
 </tr>
 
 <tr>
 <td>
-<a href="https://hackernoon.com/how-to-change-a-git-remote-url">
-<img width="140px" src="https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fimages%2FwmX5pUAo8OZNJ7VwDt1DOfj0RT83-0q93j1d.jpeg&w=1200&q=75">
-</a> 
-</td>
-<td>
-<a href="https://hackernoon.com/how-to-change-a-git-remote-url">How to Change a Git Remote URL
-</a> (324 Views) <br>
-</td>
-</tr>
-
-<tr>
-<td>
-<a href="https://hackernoon.com/how-to-publish-your-package-on-npm-registry">
-<img width="140px" src="https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fimages%2FwmX5pUAo8OZNJ7VwDt1DOfj0RT83-ak93nt3.jpeg&w=1080&q=75">
+<a href="https://blog.devgenius.io/ultimate-guide-about-git-and-github-857fd03ed800">
+<img width="140px" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*u4Q8s4BnWGBKhvgOiL2WWw.png">
 </a>
 </td>
 <td>
-<a href="https://hackernoon.com/how-to-publish-your-package-on-npm-registry">How to Publish Your Package on NPM Registry
-</a> (224 Views) <br>
+<a href="https://blog.devgenius.io/ultimate-guide-about-git-and-github-857fd03ed800">
+Ultimate guide about Git and GitHub
+</a>
 </td>
 </tr>
 
+<tr>
+<td>
+<a href="https://ritikchourasiya.medium.com/debugging-nodejs-within-a-docker-container-f1ddf7823bea">
+<img width="140px" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*KPAEwWTa3noHjLLX01S1mg.png">
+</a>
+</td>
+<td>
+<a href="https://ritikchourasiya.medium.com/debugging-nodejs-within-a-docker-container-f1ddf7823bea">
+Debugging NodeJS within a Docker Container
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://ritikchourasiya.medium.com/mastering-api-testing-with-postman-a-step-by-step-guide-c4dc3d196910">
+<img width="140px" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*A7aV4iiRkiRDoufJjba5yg.png">
+</a>
+</td>
+<td>
+<a href="https://ritikchourasiya.medium.com/mastering-api-testing-with-postman-a-step-by-step-guide-c4dc3d196910">
+Mastering API Testing with Postman: A Step-by-Step Guide
+</a>
+</td>
+</tr>
 </table>
 
 
