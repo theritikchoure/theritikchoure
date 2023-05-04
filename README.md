@@ -28,7 +28,21 @@
 ### Latest [Medium](https://ritikchourasiya.medium.com/) Blogs
 
 <table>
-  <tr>
+  
+<tr>
+<td>
+<a href="https://ritikchourasiya.medium.com/request-response-a-deep-dive-into-backend-communication-design-pattern-47d641d9eb90">
+<img width="140px" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*OghgAUYvJS86wwE8Z92Icg.jpeg">
+</a>
+</td>
+<td>
+<a href="https://ritikchourasiya.medium.com/request-response-a-deep-dive-into-backend-communication-design-pattern-47d641d9eb90">
+Request Response: A deep dive into backend communication design pattern
+</a>
+</td>
+</tr>
+  
+<tr>
 <td>
 <a href="https://ritikchourasiya.medium.com/ultimate-guide-to-build-chrome-extension-with-example-and-code-snippets-c49b4b486a39">
 <img width="140px" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*9_iaM1XDjfIHvi0whslb6A.png">
