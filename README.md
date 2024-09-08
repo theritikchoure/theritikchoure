@@ -7,7 +7,7 @@
 - 🌱  I'm on track to learn more about DevOps, Systems Design, and Cloud Architecture.
 - ✍️  In my free time, I write blogs on hackernoon [@ritikchourasiya](https://hackernoon.com/u/ritikchourasiya).
 - ✉️  You can shoot me an email at [ritvikchoure65+git@gmail.com](mailto:ritvikchoure65+git@gmail.com)! I'll try to respond as soon as I can.
-- 📄  Please have a look at my [Resume](https://docs.google.com/document/d/1L5I_DXYwbhfapVYwmaMNbsD8HNNY5kk2nZJxvv2I0bk/edit?usp=drivesdk) for more details about me. I'm open to feedback and suggestions!
+- 📄  Please have a look at my [Resume](https://ritikchourasiya.com/resume) for more details about me. I'm open to feedback and suggestions!
 
 <Br>
   
