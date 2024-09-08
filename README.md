@@ -1,4 +1,4 @@
-<a href="http://eddiejaoude.io" target="_blank"><img src="https://user-images.githubusercontent.com/56495602/198199409-5df07f02-70ba-48cd-9a87-e050ccb8f8af.png" /></a>
+<!-- <a href="http://eddiejaoude.io" target="_blank"><img src="https://user-images.githubusercontent.com/56495602/198199409-5df07f02-70ba-48cd-9a87-e050ccb8f8af.png" /></a>-->
 
 <h4 align="center">I believe in Learning in Public & Building in Public</h4>
 
