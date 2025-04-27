@@ -1,13 +1,15 @@
-<!-- <a href="http://eddiejaoude.io" target="_blank"><img src="https://user-images.githubusercontent.com/56495602/198199409-5df07f02-70ba-48cd-9a87-e050ccb8f8af.png" /></a>-->
 
-<h4 align="center">I believe in Learning in Public & Building in Public</h4>
 
-- 💡  I like to explore new technologies and develop software solutions and quick hacks.
-- 🎓  I have completed my B. Tech in Information Technology at the University Institute of Technology, RGTU.
-- 🌱  I'm on track to learn more about DevOps, Systems Design, and Cloud Architecture.
-- ✍️  In my free time, I write blogs on hackernoon [@ritikchourasiya](https://hackernoon.com/u/ritikchourasiya).
-- ✉️  You can shoot me an email at [ritvikchoure65+git@gmail.com](mailto:ritvikchoure65+git@gmail.com)! I'll try to respond as soon as I can.
-- 📄  Please have a look at my [Resume](https://ritikchourasiya.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+<h4 align="center">🛠️ Software Engineer | System Design Enthusiast </h4>
+🚀 3.5+ years of hands-on experience building scalable, reliable, and efficient web applications and backend systems.
+
+🧠 Strong in Node.js, React.js, MongoDB, Redis, RabbitMQ, AWS (EC2, S3), and modern API design (RESTful + event-driven architectures).
+
+🏗️ Passionate about architecting distributed systems, optimizing backend performance, and applying DevOps practices for seamless deployments.
+
+📚 Continuously learning advanced concepts like system design, caching strategies, database optimization, and cloud-native patterns.
+
+📫 Let's connect! Email: softwareeng.ritik@gmail.com
 
 <Br>
   
